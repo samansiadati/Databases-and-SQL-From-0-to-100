@@ -31,4 +31,5 @@ cd dbs-sql-100
 
 
 
-### 2.
+### 2. Clone the repo
+```bash
