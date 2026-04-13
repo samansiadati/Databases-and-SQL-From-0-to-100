@@ -28,7 +28,6 @@ This project is designed for:
 git clone https://github.com/your-username/dbs-sql-100.git
 cd dbs-sql-100
 
-bash```
 
 
 
