@@ -27,28 +27,3 @@ This project is designed for:
 ```bash
 git clone https://github.com/your-username/dbs-sql-100.git
 cd dbs-sql-100
-
-
-
-## 🐳 Docker Setup (Run Instantly)
-
-This project uses PostgreSQL via Docker for easy setup.
-
-### docker-compose.yml
-
-```yaml
-version: '3.9'
-
-services:
-  db:
-    image: postgres:15
-    container_name: sql_book_db
-    restart: always
-    environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: university_system
-    ports:
-      - "5432:5432"
-    volumes:
-      - ./schema:/docker-entrypoint-initdb.d
