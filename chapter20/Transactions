@@ -1,0 +1,3 @@
+BEGIN;
+UPDATE students SET name = 'Test' WHERE student_id = 1;
+ROLLBACK;
