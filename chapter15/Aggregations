@@ -1,0 +1,4 @@
+SELECT course_id, COUNT(*)
+FROM enrollments
+GROUP BY course_id
+HAVING COUNT(*) > 1;
