@@ -1,0 +1,6 @@
+WITH counts AS (
+    SELECT course_id, COUNT(*) AS total
+    FROM enrollments
+    GROUP BY course_id
+)
+SELECT * FROM counts;
