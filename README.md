@@ -2,7 +2,6 @@
 
 A **production-ready, end-to-end SQL learning repository** covering everything from fundamentals to advanced database concepts.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@ A **production-ready, end-to-end SQL learning repository** covering everything f
 - ✅ Exercises + solutions
 - ✅ Covers performance, indexing, transactions, and scaling
 
----
 
 ## 🐳 Quick Start (Docker)
 
