@@ -2,15 +2,9 @@
 
 A **production-ready, end-to-end SQL learning repository** covering everything from fundamentals to advanced database concepts.
 
-This project is designed for:
-- 📚 Students learning SQL
-- 💼 Data Engineering / Data Science interview prep
-- 🧑‍🏫 Teaching and academic use
-- 🚀 Portfolio projects
-
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Full PostgreSQL database setup (Dockerized)
 - ✅ Real-world relational schema (`university_system`)
