@@ -1,0 +1,3 @@
+SELECT name,
+       ROW_NUMBER() OVER (ORDER BY name) AS rank
+FROM students;
