@@ -25,8 +25,8 @@ This project is designed for:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/dbs-sql-100.git
-cd dbs-sql-100
+git clone https://github.com/samansiadati/Databases-and-SQL-From-0-to-100.git
+cd Databases-and-SQL-From-0-to-100
 
 ```
 
