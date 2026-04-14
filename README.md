@@ -32,5 +32,9 @@ cd dbs-sql-100
 
 
 
-### 2. Clone the repo
+### 2. Start Docker
 ```bash
+docker-compose up -d
+```
+
+
